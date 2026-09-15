@@ -100,7 +100,6 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
 ---
  
 ## 📁 Repository Contents
- 
 ```
 ├── HR_Attrition_Dashboard.pbix     # Power BI source file
 ├── HR_Attrition_Dashboard.pdf      # Exported PDF walkthrough of the dashboard
@@ -109,9 +108,9 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
 ├── 03-driver-analysis.png          # Dashboard screenshot — Driver Analysis
 ├── 04-cost-analysis.png            # Dashboard screenshot — Cost Analysis
 ├── 05-forecasting-simulator.png    # Dashboard screenshot — Forecasting Simulator
-└── README.md                       # Project documentation (this file)
+└── README.md                       # Project documentation 
+```
  
----
  
 ## 📷 Dashboard Preview
  
