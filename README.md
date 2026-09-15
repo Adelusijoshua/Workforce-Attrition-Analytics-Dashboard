@@ -104,7 +104,8 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
 ├── HR_Attrition.xlsx               # Dataset in Excel File
 ├── HR_Attrition_Dashboard.pbix     # Power BI source file
 ├── HR_Attrition_Dashboard.pdf      # Exported PDF walkthrough of the dashboard
-├── 01-overview.png                 # Dashboard screenshot — Overview
+├── 01a-overview.png                # Dashboard screenshot — Overview
+├── 01b-Overview.png                # Dashboard screenshot — Interactive Filter Panel
 ├── 02-who-is-leaving.png           # Dashboard screenshot — Who is Leaving
 ├── 03-driver-analysis.png          # Dashboard screenshot — Driver Analysis
 ├── 04-cost-analysis.png            # Dashboard screenshot — Cost Analysis
@@ -116,7 +117,10 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
 ## 📷 Dashboard Preview
  
 ### Overview
-![Overview Page](01-overview.png)
+![Overview Page](01a-overview.png)
+
+### Overview — Interactive Filter Panel
+![Overview — Interactive Filter Panel](01b-overview-Interactive-Filter-Panel.png).
  
 ### Who is Leaving
 ![Who is Leaving Page](02-who-is-leaving.png)
