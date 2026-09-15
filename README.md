@@ -110,9 +110,6 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
 ├── 04-cost-analysis.png            # Dashboard screenshot — Cost Analysis
 ├── 05-forecasting-simulator.png    # Dashboard screenshot — Forecasting Simulator
 └── README.md                       # Project documentation (this file)
-```
- 
-> ⚠️ Note: Replace/add the actual `.pbix` file to this repo if you intend for others to open and interact with the report in Power BI Desktop.
  
 ---
  
