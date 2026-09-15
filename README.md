@@ -102,8 +102,13 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
 ## 📁 Repository Contents
  
 ```
-├── HR_Attrition_Dashoard.pbix     # Power BI source file
+├── HR_Attrition_Dashboard.pbix     # Power BI source file
 ├── HR_Attrition_Dashboard.pdf      # Exported PDF walkthrough of the dashboard
+├── 01-overview.png                 # Dashboard screenshot — Overview
+├── 02-who-is-leaving.png           # Dashboard screenshot — Who is Leaving
+├── 03-driver-analysis.png          # Dashboard screenshot — Driver Analysis
+├── 04-cost-analysis.png            # Dashboard screenshot — Cost Analysis
+├── 05-forecasting-simulator.png    # Dashboard screenshot — Forecasting Simulator
 └── README.md                       # Project documentation (this file)
 ```
  
@@ -111,9 +116,22 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
  
 ---
  
-## 📷 Preview
+## 📷 Dashboard Preview
  
-See the attached PDF/screenshots in this repository for a full visual walkthrough of the dashboard, including the Overview, Who is Leaving, Driver Analysis, Cost Analysis, and Forecasting pages.
+### Overview
+![Overview Page](01-overview.png)
+ 
+### Who is Leaving
+![Who is Leaving Page](02-who-is-leaving.png)
+ 
+### Driver Analysis
+![Driver Analysis Page](03-driver-analysis.png)
+ 
+### Cost Analysis
+![Cost Analysis Page](04-cost-analysis.png)
+ 
+### Forecasting Simulator
+![Forecasting Simulator Page](05-forecasting-simulator.png)
  
 ---
  
