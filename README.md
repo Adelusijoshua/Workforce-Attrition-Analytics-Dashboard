@@ -101,6 +101,7 @@ The report is built as a multi-page interactive Power BI dashboard with the foll
  
 ## 📁 Repository Contents
 ```
+├── HR_Attrition.xlsx               # Dataset in Excel File
 ├── HR_Attrition_Dashboard.pbix     # Power BI source file
 ├── HR_Attrition_Dashboard.pdf      # Exported PDF walkthrough of the dashboard
 ├── 01-overview.png                 # Dashboard screenshot — Overview
